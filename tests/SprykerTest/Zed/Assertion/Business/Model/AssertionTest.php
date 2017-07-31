@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Unit\Spryker\Zed\Assertion\Business\Model;
+namespace SprykerTest\Zed\Assertion\Business\Model;
 
 use PHPUnit_Framework_TestCase;
 use Spryker\Zed\Assertion\Business\Exception\InvalidArgumentException;
@@ -13,13 +13,14 @@ use Spryker\Zed\Assertion\Business\Model\Assertion;
 use stdClass;
 
 /**
- * @group Unit
- * @group Spryker
+ * Auto-generated group annotations
+ * @group SprykerTest
  * @group Zed
  * @group Assertion
  * @group Business
  * @group Model
  * @group AssertionTest
+ * Add your own group annotations below this line
  */
 class AssertionTest extends PHPUnit_Framework_TestCase
 {

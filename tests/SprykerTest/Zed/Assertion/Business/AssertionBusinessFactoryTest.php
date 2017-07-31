@@ -5,19 +5,20 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Unit\Spryker\Zed\Assertion\Business;
+namespace SprykerTest\Zed\Assertion\Business;
 
 use PHPUnit_Framework_TestCase;
 use Spryker\Zed\Assertion\Business\AssertionBusinessFactory;
 use Spryker\Zed\Assertion\Business\Model\Assertion;
 
 /**
- * @group Unit
- * @group Spryker
+ * Auto-generated group annotations
+ * @group SprykerTest
  * @group Zed
  * @group Assertion
  * @group Business
  * @group AssertionBusinessFactoryTest
+ * Add your own group annotations below this line
  */
 class AssertionBusinessFactoryTest extends PHPUnit_Framework_TestCase
 {

@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Unit\Spryker\Zed\Assertion\Communication\Plugin\ServiceProvider;
+namespace SprykerTest\Zed\Assertion\Communication\Plugin\ServiceProvider;
 
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
@@ -13,14 +13,15 @@ use Spryker\Zed\Assertion\Business\AssertionFacade;
 use Spryker\Zed\Assertion\Communication\Plugin\ServiceProvider\AssertionServiceProvider;
 
 /**
- * @group Unit
- * @group Spryker
+ * Auto-generated group annotations
+ * @group SprykerTest
  * @group Zed
  * @group Assertion
  * @group Communication
  * @group Plugin
  * @group ServiceProvider
  * @group AssertionServiceProviderTest
+ * Add your own group annotations below this line
  */
 class AssertionServiceProviderTest extends PHPUnit_Framework_TestCase
 {
