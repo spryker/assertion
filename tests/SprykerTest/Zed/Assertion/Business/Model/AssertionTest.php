@@ -38,9 +38,6 @@ class AssertionTest extends Unit
         $this->doTest($value, $isValid, 'assertNumeric');
     }
 
-    /**
-     * @return array
-     */
     public function numeric(): array
     {
         return [
@@ -68,9 +65,6 @@ class AssertionTest extends Unit
         $this->doTest($value, $isValid, 'assertNumericNotZero');
     }
 
-    /**
-     * @return array
-     */
     public function numericNotZero(): array
     {
         return [
@@ -98,9 +92,6 @@ class AssertionTest extends Unit
         $this->doTest($value, $isValid, 'assertAlphaNumeric');
     }
 
-    /**
-     * @return array
-     */
     public function alphaNumeric(): array
     {
         return [
@@ -132,9 +123,6 @@ class AssertionTest extends Unit
         $this->doTest($value, $isValid, 'assertAlpha');
     }
 
-    /**
-     * @return array
-     */
     public function alpha(): array
     {
         return [

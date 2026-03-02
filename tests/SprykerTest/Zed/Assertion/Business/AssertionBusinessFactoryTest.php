@@ -23,9 +23,6 @@ use Spryker\Zed\Assertion\Business\Model\Assertion;
  */
 class AssertionBusinessFactoryTest extends Unit
 {
-    /**
-     * @return void
-     */
     public function testCreateAssertion(): void
     {
         $factory = new AssertionBusinessFactory();

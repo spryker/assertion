@@ -28,9 +28,6 @@ use Spryker\Zed\Assertion\Communication\Plugin\ServiceProvider\AssertionServiceP
  */
 class AssertionServiceProviderTest extends Unit
 {
-    /**
-     * @return void
-     */
     public function testRegisterServiceProvider(): void
     {
         $application = new Application();
